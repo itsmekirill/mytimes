@@ -147,6 +147,7 @@ footer {
   align-items: center;
   justify-content: center;
   height: 300px;
+  width: 100%;
 }
 footer ul {
   list-style: none;
